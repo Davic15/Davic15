@@ -21,4 +21,4 @@
 
 <div align="center">
   <a href="https://app.daily.dev/davic15"><img src="https://api.daily.dev/devcards/55918e7e58bb4052acc48aa7e73606de.png?r=a9j" width="400" alt="Franklin David Macias Avellan's Dev Card"/></a>
-</div>div>
+</div>
