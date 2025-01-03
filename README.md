@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Franklin David Macias Avellan</h1>
 <h3 align="center">A passionate frontend developer, from Ecuador but now living in Italy.</h3>
 
-- 🔭 I’m currently working on [Chocosfera](https://github.com/Davic15/chocosfera)
+- 🔭 I’m currently working on Grupo KFC
 
 - 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React and Angular**
 
