@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Franklin David Macias Avellan</h1>
-<h3 align="center">A passionate frontend developer, from Ecuador but now living in Italy.</h3>
+<h3 align="center">A passionate frontend developer, from Ecuador but now living in Egypt.</h3>
 
 - 🔭 I’m currently working on Grupo KFC
 
