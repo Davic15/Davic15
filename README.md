@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React and Angular**
 
-- 📄 Know about my experiences [CV]([https://drive.google.com/file/d/1eoKK_rCo3uUZ4rLBbPpIeRj0ts8lP5VQ/view?usp=sharing](https://drive.google.com/file/d/1jyZH8V6CMYbSmpDsqrf_hQ1uRrMMHXo0/view?usp=sharing])
+- 📄 Know about my experiences [CV]([https://drive.google.com/file/d/1eoKK_rCo3uUZ4rLBbPpIeRj0ts8lP5VQ/view?usp=sharing](https://drive.google.com/file/d/1jyZH8V6CMYbSmpDsqrf_hQ1uRrMMHXo0/view?usp=sharing ])
   
 - 🏡 Portfolio **https://davic15.github.io/**
 
